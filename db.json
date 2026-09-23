@@ -1,0 +1,59 @@
+{
+  "monthly": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": 9,
+      "currency": "$",
+      "billing": "month",
+      "popular": false,
+      "description": "Perfect for freelancers and individuals getting started.",
+      "features": [
+        "Up to 5 Projects",
+        "10 GB Storage",
+        "Basic Analytics",
+        "Email Support",
+        "Single User Access"
+      ],
+      "buttonText": "Start Free Trial"
+    },
+    {
+      "id": 2,
+      "name": "Professional",
+      "price": 29,
+      "currency": "$",
+      "billing": "month",
+      "popular": true,
+      "description": "Best for growing teams that need advanced collaboration tools.",
+      "features": [
+        "Unlimited Projects",
+        "100 GB Storage",
+        "Advanced Analytics",
+        "Priority Email Support",
+        "Up to 10 Team Members",
+        "Custom Integrations"
+      ],
+      "buttonText": "Get Started"
+    },
+    {
+      "id": 3,
+      "name": "Enterprise",
+      "price": 99,
+      "currency": "$",
+      "billing": "month",
+      "popular": false,
+      "description": "Advanced security and scalability for large organizations.",
+      "features": [
+        "Unlimited Projects",
+        "1 TB Storage",
+        "Advanced Analytics",
+        "Dedicated Account Manager",
+        "Unlimited Team Members",
+        "Custom API Access",
+        "24/7 Premium Support"
+      ],
+      "buttonText": "Contact Sales"
+    }
+  ]
+
+}
